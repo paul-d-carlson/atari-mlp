@@ -1,5 +1,5 @@
 /*
- * ataritron.c - XORTRAN Training Entry Point for CC65 / Atari 8-bit
+ * ataritron.c - Training Entry Point for CC65 / Atari 8-bit
  *
  * PURPOSE
  * -------
