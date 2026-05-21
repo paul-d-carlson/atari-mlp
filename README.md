@@ -160,15 +160,13 @@ all four XOR input pairs:
 ## License
 
 The original Fortran source (XORTRAN.FOR) is released under the MIT License.
-The C port is derived from this work and follows the same license.
-
-See the `XORTRAN.FOR` source file for the full license text.
+The C port is derived from this work and follows the same license. 
 
 ## References
 
 - [XOR problem - Wikipedia](https://en.wikipedia.org/wiki/XOR_problem)
 - [He initialization - Wikipedia](https://en.wikipedia.org/wiki/He_initialization)
-- [CC65 - C Compiler for Commodore 64](https://github.com/cc65/cc65)
+- [CC65 - C Compiler](https://github.com/cc65/cc65)
 - [Atari 8-bit family - Wikipedia](https://en.wikipedia.org/wiki/Atari_8-bit_family)
 
 ## Acknowledgments
