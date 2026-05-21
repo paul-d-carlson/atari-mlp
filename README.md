@@ -164,8 +164,7 @@ The C port is derived from this work and follows the same license.
 
 ## References
 
-- [XOR problem - Wikipedia](https://en.wikipedia.org/wiki/XOR_problem)
-- [He initialization - Wikipedia](https://en.wikipedia.org/wiki/He_initialization)
+- [XORTRAN Source](https://github.com/dbrll/Xortran)
 - [CC65 - C Compiler](https://github.com/cc65/cc65)
 - [Atari 8-bit family - Wikipedia](https://en.wikipedia.org/wiki/Atari_8-bit_family)
 
